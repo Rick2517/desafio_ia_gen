@@ -1,4 +1,4 @@
-# desafio_ia_genarativa
+# desafio_ia_generativa
 
 # 📒 Descrição
 Este e-book de 8 páginas explora o impactos éticos da inteligência artificial.
